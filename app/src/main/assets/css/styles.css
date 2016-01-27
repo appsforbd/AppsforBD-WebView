@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+  width: 79.9999999999%;
+  height: 282px;
+  margin-left: 10%;
+}
+
+.container .text {
+  margin-top: 3px;
+  font-size: 1em;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  float: left;
+  line-height: 1.38;
+}
+
+._button {
+  display: block;
+  position: relative;
+  float: left;
+  z-index: 1;
+  width: 90%;
+  height: 56px;
+  margin: 9px 0 0 4%;
+  border-radius: 3px;
+  background-color: rgb(32, 147, 248);
+  font-size: 1.5em;
+  font-weight: 700;
+  line-height: 1.38;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-1 {
+  position: relative;
+  clear: both;
+  z-index: 0;
+  margin: -55px 0 0 28.4668%;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
