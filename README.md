@@ -12,4 +12,4 @@ Simple WebView Project, Matarial Design, Tab Layout.
 4. Now customaize as you want. Such as `package name`,`icon`,`color`,`assets`.
 
 #How to change package name?
-Check this [link](http://stackoverflow.com/questions/16804093/android-studio-rename-package)
+Follow this [link](http://stackoverflow.com/questions/16804093/android-studio-rename-package)
