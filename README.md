@@ -8,7 +8,7 @@ Simple WebView Project, Matarial Design, Tab Layout.
 1. Clone `git clone https://github.com/appsforbd/AppsforBD-WebView.git` or [Download](https://github.com/appsforbd/AppsforBD-WebView/archive/master.zip) this Repositories.
 2. Extract to your workplace project directory.
 2. Download latest [Android Studio](http://developer.android.com/sdk/index.html) and complete installation.
-3. Now open Android Studio and import this project `File > Import`.
+3. Now open Android Studio and import this project `File > New > Import Project` / `Open an exiting Android Studio Project`.
 4. Now customaize as you want. Such as `package name`,`icon`,`color`,`assets`.
 
 #How to change package name?
